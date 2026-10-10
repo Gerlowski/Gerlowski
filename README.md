@@ -24,8 +24,7 @@ Utrzymanie sieci LAN/SAN, klastra Ceph, wirtualizacji Proxmox i usług w Dockerz
 | | |
 | --- | --- |
 | [**update-linux**](https://github.com/Gerlowski/update-linux) | Pełna aktualizacja Debiana/Ubuntu przez `apt` jednym poleceniem, z logowaniem |
-| [**sysadmin-scripts**](https://github.com/Gerlowski/sysadmin-scripts) | Skrypty MikroTik i Linux z codziennej pracy admina |
-| [**nfsen-ng-docker**](https://github.com/Gerlowski/nfsen-ng-docker) | nfsen-ng + nfdump (kolektor i wizualizacja NetFlow) w Dockerze |
+| [**sysadmin-scripts**](https://github.com/Gerlowski/sysadmin-scripts) | Skrypty MikroTik, Linux i Zabbix: backup, monitoring certyfikatów i dysków, testy portów |
 | 📺 CamWall | Podgląd kamer na telewizorach Samsung Tizen (w trakcie prac) |
 
 ### Po godzinach
