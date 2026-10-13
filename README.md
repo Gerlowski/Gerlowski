@@ -21,11 +21,7 @@ Utrzymanie sieci LAN/SAN, klastra Ceph, wirtualizacji Proxmox i usług w Dockerz
 
 ### Projekty
 
-| | |
-| --- | --- |
-| [**update-linux**](https://github.com/Gerlowski/update-linux) | Pełna aktualizacja Debiana/Ubuntu przez `apt` jednym poleceniem, z logowaniem |
-| [**sysadmin-scripts**](https://github.com/Gerlowski/sysadmin-scripts) | Skrypty MikroTik, Linux i Zabbix: backup, monitoring certyfikatów i dysków, testy portów |
-| 📺 CamWall | Podgląd kamer na telewizorach Samsung Tizen (w trakcie prac) |
+📺 **CamWall** – podgląd kamer na telewizorach Samsung Tizen, z edytorem układów (w trakcie prac)
 
 ### Po godzinach
 
