@@ -9,7 +9,7 @@
 - 🌐 **Sieci:** MikroTik, Cisco, Ubiquiti/UniFi, Arista, Huawei · BGP, OSPF · LAN/SAN · NetFlow
 - 🔒 **Bezpieczeństwo:** firewalle, tunele VPN, listy ACL, analiza incydentów
 - 🖥️ **Wirtualizacja i storage:** Proxmox VE, VMware, Ceph, Docker
-- 📈 **Monitoring:** Zabbix, Grafana
+- 📈 **Monitoring:** Zabbix
 - 💾 **Backup i ciągłość działania:** polityki i automatyzacja kopii zapasowych, procedury odtwarzania, backup konfiguracji (Oxidized)
 - 🐧 **Automatyzacja:** Linux, bash i PowerShell, Cloudflare Workers i DNS
 - 📝 **Dokumentacja:** procedury i dokumentacja techniczna całego środowiska IT
@@ -17,7 +17,7 @@
 ### Doświadczenie
 
 **Network & System Administrator** · Montmay Sp. z o.o., Łomża · 2018–2025\
-Utrzymanie sieci LAN/SAN, klastra Ceph, wirtualizacji Proxmox i usług w Dockerze. Zaprojektowałem politykę backupu, zabezpieczałem sieć (firewall, VPN, ACL) i monitorowałem dostępność w Zabbix i Grafanie.
+Utrzymanie sieci LAN/SAN, klastra Ceph, wirtualizacji Proxmox i usług w Dockerze. Zaprojektowałem politykę backupu, zabezpieczałem sieć (firewall, VPN, ACL) i monitorowałem dostępność w Zabbixie.
 
 ### Projekty
 
@@ -47,7 +47,7 @@ Utrzymanie sieci LAN/SAN, klastra Ceph, wirtualizacji Proxmox i usług w Dockerz
 - 🌐 **Networking:** MikroTik, Cisco, Ubiquiti/UniFi, Arista, Huawei · BGP, OSPF · LAN/SAN · NetFlow
 - 🔒 **Security:** firewalls, VPN tunnels, ACLs, incident analysis
 - 🖥️ **Virtualization & storage:** Proxmox VE, VMware, Ceph, Docker
-- 📈 **Monitoring:** Zabbix, Grafana
+- 📈 **Monitoring:** Zabbix
 - 💾 **Backup & continuity:** backup policies, automated backups, recovery procedures, config backups with Oxidized
 - 🐧 **Automation:** Linux, bash & PowerShell, Cloudflare Workers & DNS
 - 📝 **Docs:** procedures and technical documentation for the whole IT environment
@@ -55,7 +55,7 @@ Utrzymanie sieci LAN/SAN, klastra Ceph, wirtualizacji Proxmox i usług w Dockerz
 ### Experience
 
 **Network & System Administrator** · Montmay Sp. z o.o., Łomża · 2018–2025\
-Ran the company's LAN/SAN, Ceph storage cluster, Proxmox virtualization and Docker services. Designed the backup policy, secured the network (firewall, VPN, ACL) and monitored availability with Zabbix and Grafana.
+Ran the company's LAN/SAN, Ceph storage cluster, Proxmox virtualization and Docker services. Designed the backup policy, secured the network (firewall, VPN, ACL) and monitored availability with Zabbix.
 
 ### Off the clock
 
