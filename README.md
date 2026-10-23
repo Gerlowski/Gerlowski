@@ -21,11 +21,13 @@ Utrzymanie sieci LAN/SAN, klastra Ceph, wirtualizacji Proxmox i usług w Dockerz
 
 ### Projekty
 
+📻 **[Wavelog Mobile](https://github.com/TA4RX-SP9AQG/Wavelog-Mobile)** – współtworzę aplikację na Androida do prowadzenia logu krótkofalarskiego: odczyt częstotliwości i emisji z radia po USB CAT (Icom CI-V, Kenwood/Yaesu, FT-817), strojenie radia do spotów DX ([pull requesty](https://github.com/TA4RX-SP9AQG/Wavelog-Mobile/pulls?q=author%3AGerlowski))
+
 📺 **CamWall** – podgląd kamer na telewizorach Samsung Tizen, z edytorem układów (w trakcie prac)
 
 ### Po godzinach
 
-📻 Krótkofalowiec ze świadectwem klasy A (UKE), członek Łomżyńskiego Stowarzyszenia Krótkofalowców · 📷 obróbka zdjęć · 🏍️ motocykle
+📻 Krótkofalowiec **SP4BL** ze świadectwem klasy A (UKE), członek Łomżyńskiego Stowarzyszenia Krótkofalowców · 📷 obróbka zdjęć · 🏍️ motocykle
 
 ### Kontakt
 
@@ -57,8 +59,14 @@ Utrzymanie sieci LAN/SAN, klastra Ceph, wirtualizacji Proxmox i usług w Dockerz
 **Network & System Administrator** · Montmay Sp. z o.o., Łomża · 2018–2025\
 Ran the company's LAN/SAN, Ceph storage cluster, Proxmox virtualization and Docker services. Designed the backup policy, secured the network (firewall, VPN, ACL) and monitored availability with Zabbix.
 
+### Projects
+
+📻 **[Wavelog Mobile](https://github.com/TA4RX-SP9AQG/Wavelog-Mobile)** – contributor to the Android ham radio logging app: live frequency and mode from the radio over USB CAT (Icom CI-V, Kenwood/Yaesu, FT-817), tuning the radio to DX spots ([pull requests](https://github.com/TA4RX-SP9AQG/Wavelog-Mobile/pulls?q=author%3AGerlowski))
+
+📺 **CamWall** – camera wall for Samsung Tizen TVs with a layout editor (work in progress)
+
 ### Off the clock
 
-📻 Licensed radio amateur (UKE class A) · 📷 photo editing · 🏍️ motorcycles
+📻 Licensed radio amateur **SP4BL** (UKE class A) · 📷 photo editing · 🏍️ motorcycles
 
 </details>
