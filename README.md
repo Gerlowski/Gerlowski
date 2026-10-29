@@ -21,6 +21,8 @@ Utrzymanie sieci LAN/SAN, klastra Ceph, wirtualizacji Proxmox i usług w Dockerz
 
 ### Projekty
 
+✉️ **[Wavelog QSL Mailer](https://github.com/Gerlowski/wavelog-qsl-mailer)** – automatyczna wysyłka kart QSL e-mailem z logu Wavelog: wyszukuje adres korespondenta w QRZ.com/HamQTH, generuje spersonalizowaną kartę (pasmo, emisja, RST, POTA/WWFF/SOTA) i oznacza QSO jako wysłane. Python, działa obok Wavelog jako kontener Docker lub usługa systemd
+
 📻 **[Wavelog Mobile](https://github.com/TA4RX-SP9AQG/Wavelog-Mobile)** – współtworzę aplikację na Androida do prowadzenia logu krótkofalarskiego: odczyt częstotliwości i emisji z radia po USB CAT (Icom CI-V, Kenwood/Yaesu, FT-817), strojenie radia do spotów DX
 
 📺 **CamWall** – podgląd kamer na telewizorach Samsung Tizen, z edytorem układów (w trakcie prac)
@@ -61,12 +63,14 @@ Ran the company's LAN/SAN, Ceph storage cluster, Proxmox virtualization and Dock
 
 ### Projects
 
+✉️ **[Wavelog QSL Mailer](https://github.com/Gerlowski/wavelog-qsl-mailer)** – emails QSL cards straight from your Wavelog log: looks up the station's address on QRZ.com/HamQTH, renders a personalised card (band, mode, RST, POTA/WWFF/SOTA) and marks the QSO as sent. Python, runs next to Wavelog as a Docker sidecar or a systemd service
+
 📻 **[Wavelog Mobile](https://github.com/TA4RX-SP9AQG/Wavelog-Mobile)** – contributor to the Android ham radio logging app: live frequency and mode from the radio over USB CAT (Icom CI-V, Kenwood/Yaesu, FT-817), tuning the radio to DX spots
 
 📺 **CamWall** – camera wall for Samsung Tizen TVs with a layout editor (work in progress)
 
 ### Off the clock
 
-📻 Licensed radio amateur **SP4BL** (UKE class A) · 📷 photo editing · 🏍️ motorcycles
+📻 Licensed radio amateur **SP4BL** (UKE class A), member of the Łomża Amateur Radio Society · 📷 photo editing · 🏍️ motorcycles
 
 </details>
